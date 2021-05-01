@@ -1,4 +1,4 @@
-# furretre.at
+# noctfurnal.com
 
 [![Discord](https://img.shields.io/discord/569747786199728150?label=Discord&logo=Discord)](https://discord.noctfurnal.com)
 
@@ -6,11 +6,11 @@
 
 ### Screenshots
 
-![Main view](https://i.reupload.gg/QHBaSuYMg.png)
+![Main view](https://i.reupload.gg/W48riE9GR.png)
 
-![Stats view](https://i.reupload.gg/9o5YSuLGg.png)
+![Stats view](https://i.reupload.gg/f-4CmP9Gg.png)
 
-![Avatar view](https://i.reupload.gg/eq_QSXYMg.png)
+![Avatar view](https://i.reupload.gg/6_fjiErGR.png)
 
 ### Setup
 
@@ -20,3 +20,7 @@
 4. Create a Discord bot application [here.](https://discordapp.com/developers) and create a bot user.
 5. Copy the token into the `config.json` file.
 6. Edit the files as necessary.
+
+
+### Credits
+Credit to Ben071 (Benjamin) for the original design of the website.
