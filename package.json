@@ -1,0 +1,25 @@
+{
+  "name": "noctfurnal.com",
+  "version": "1.0.0",
+  "description": "The official website for the Noctfurnal Discord server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noctfurnal-Development/noctfurnal.com.git"
+  },
+  "author": "Noctfurnal Development (formerly Benjamin Higgs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Noctfurnal-Development/noctfurnal.com/issues"
+  },
+  "homepage": "https://github.com/TFR-Development/noctfurnal.com#readme"
+}
