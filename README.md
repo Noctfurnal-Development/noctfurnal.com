@@ -6,11 +6,11 @@
 
 ### Screenshots
 
-![Main view](https://i.reupload.gg/W48riE9GR.png)
+![Main view](https://i.reupload.gg/HfrkD89MR.png)
 
 ![Stats view](https://i.reupload.gg/f-4CmP9Gg.png)
 
-![Avatar view](https://i.reupload.gg/6_fjiErGR.png)
+![Staff view](https://i.reupload.gg/3HXiv8rGg.png)
 
 ### Setup
 
